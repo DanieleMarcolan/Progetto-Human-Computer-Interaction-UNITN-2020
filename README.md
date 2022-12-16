@@ -1,4 +1,3 @@
-# Progetto-Human-Computer-Interaction-UNITN-2020
 (Unfortunately only available in italian for the moment)
 
 Progetto per il corso universitario di Human-Computer Interaction, riguardante il processo di sviluppo del prototipo di un'applicazione mobile (realizzato con Axure). Il report descrive le metodologie utilizzate in ogni fase di sviluppo, mentre il video mostra il prototipo dell'app in azione.
